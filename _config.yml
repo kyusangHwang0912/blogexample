@@ -15,18 +15,18 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "H_kyu3의 datascience 블로그"
+locale                   : "en"
+title                    : "Kyu3의 datascience 일지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Kyu3"
+description              : "data기획자를 목표로 하는 Kyu3의 블로그입니다."
 url                      : "https://kyusanghwang0912.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kyusangHwang/kyusangHwang0912.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Good luck!"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -59,7 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "kyu sang HWANG"
+  name             : "Hwang kyusang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "경기도 군포시 산본동"
+  bio              : "I am kyusang"
+  location         : "Gunpo,Korea"
   email            : "hkyku9@naver.com"
   links:
     - label: "Email"
