@@ -1,5 +1,5 @@
 ---
-title: "SQL 강의"
+title: "lecture"
 layout: archive
 permalink: categories/SQL_lec
 author_profile: true
