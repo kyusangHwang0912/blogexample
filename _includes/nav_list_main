@@ -30,6 +30,21 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+        <span class="nav__sub-title">SQL</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "SQL_lec" %}
+                        <li><a href="/categories/SQL_lec" class="">SQL 강의 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "SQL_MySQL" %}
+                        <li><a href="/categories/MySQL" class="">MySQL ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>      
       </li>
   </ul>
 </nav>
