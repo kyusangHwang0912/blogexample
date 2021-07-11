@@ -1,5 +1,5 @@
 ---
-title: "알고리즘 강의"
+title: "algorithm_lecture"
 layout: archive
 permalink: categories/algorithm_lec
 author_profile: true
